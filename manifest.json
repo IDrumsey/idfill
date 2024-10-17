@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "idfill",
+  "description": "Auto-fill job applications with your resume and ai",
+  "version": "1.0",
+  "action": {
+    "default_popup": "MainPopup/MainPopup.html"
+  }
+}
